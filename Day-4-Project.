@@ -1,0 +1,13 @@
+A simple 3D scene created in Blender featuring a donut and a coffee mug on a flat surface. This project represents an early-stage modeling and texturing attempt by a beginner, focusing on basic object creation, material application, and workspace familiratiy.
+Learnings:
+Understanding Blender’s interface and navigation tools (viewport, outliner, properties panel).
+
+Creating primitive shapes (torus for donut, cylinder for mug).
+
+Applying basic materials and colors to objects.
+
+Adjusting object transforms (location, rotation, scale).
+
+Setting up a simple camera view and lighting for scene composition.
+
+Gaining confidence in organizing objects within collections.
